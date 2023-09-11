@@ -201,6 +201,84 @@ body::-webkit-scrollbar {
     fill: #772929;
 }
 
+.about{
+    margin-top: 250px;
+}
 
+/*ABOUT SECTION*/
+.heading{
+    font-size: 96px;
+    font-weight: 900;
+    text-align: center;
+}
 
+#underline4{
+    margin-left: 690px;
+}
 
+.about__description{
+    text-align: center;
+    font-size: 48px;
+    margin-top: 90px;
+    font-weight:500;
+    font-family: Lato;
+}
+
+.dash{
+    color: #772929;
+}
+
+.about__sentences{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 300;
+}
+
+/*PROJECT SECTION*/
+.details__container{
+    padding: 1rem;
+    flex: 1;
+    background: white;
+    border-radius: 2rem;
+    border: rgb(53, 53, 53) 0.1rem solid;
+    border-color: rgb(163, 163, 163);
+    text-align: center;
+}
+
+.article__container{
+    display: flex;
+    text-align: initial;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 2.5rem;
+    justify-content: space-around;
+}
+
+#projects{
+    position: relative;
+    margin-top: 10%;
+}
+
+.color__container{
+    border-color: rgb(163, 163, 163);
+    background: rgb(250, 250, 250);
+}
+
+.project__img{
+    border-radius: 2rem;
+    width: 70%;
+    height: 70%;
+}
+
+.project__title{
+    margin: 1rem;
+    color: black;
+}
+
+.about__container{
+    gap: 2em;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    display: flex;
+}

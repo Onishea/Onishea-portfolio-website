@@ -1,0 +1,66 @@
+*{
+    margin-bottom: 20px;
+}
+.section{
+    margin: 0px 130px 40px;
+    font-family: Chivo;
+}
+
+img{
+    max-width: 5000px;
+    max-height: 600px;
+}
+
+.import__info__header{
+    margin: 40px 0px 20px;
+    font-size:64px ;
+    text-align: center;
+}
+
+.import__info__details{
+    margin: 0px 0px 20px;
+    text-align: center;
+}
+
+.small__headings{
+    margin: 20px 0px 20px;
+    font-size:medium;
+    text-transform: uppercase;
+}
+
+.big__headings{
+    margin: 0px 0px 20px;
+    font-size: 55px;
+}
+
+.regular__textbox{
+    font-size: 30px
+}
+
+.quote{
+    font-size: 33px;
+    
+}
+
+.competion{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.questions{
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.research__questions{
+    font-weight: 300;
+}
+
+.final__screens{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
