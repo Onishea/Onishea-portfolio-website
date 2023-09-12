@@ -38,8 +38,8 @@ body::-webkit-scrollbar {
   }
 
 /*NORMAL STYLES*/
-.about__container{
-    margin: 0px 0px 40px;
+.home__container{
+    margin: 0px 0px 400px;
 }
 
 .header {
