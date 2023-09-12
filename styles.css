@@ -39,7 +39,7 @@ body::-webkit-scrollbar {
 
 /*NORMAL STYLES*/
 .home__container{
-    margin: 0px 0px 2000px;
+    padding-top: 3000px;
 }
 
 .header {
